@@ -4,4 +4,4 @@ NPM     : 2206046645
 
 Class   : KKI
 
-Hobby   : Travelling
+Hobby   : Jalan-Jalan
